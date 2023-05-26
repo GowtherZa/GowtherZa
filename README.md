@@ -6,7 +6,7 @@ Software Engineer, Web Developer and Designer.
 
 I'm a certified software engineer since 2022 and have been coding since 2017. Trying to improve myself and learn something new everyday. After playing a little with 📱Mobile Apps Development and 🎮 Game Development, finally got myself into the web development world. I'm a very familiar guy and I like doggos and cattos as well :} .
 
-*   🌍  I'm based in La Habana, Cuba
+*   🌍  I'm based in Miami, USA
 *   ✉️  You can contact me at [Gowtherza@proton.me](mailto:Gowtherza@proton.me)
 *   🧠  I'm learning Angular + the daily discoveries
 
