@@ -8,7 +8,7 @@ I'm a certified software engineer since 2022 and have been coding since 2017. Tr
 
 *   🌍  I'm based in Miami, USA
 *   ✉️  You can contact me at [Gowtherza@proton.me](mailto:Gowtherza@proton.me)
-*   🧠  I'm learning Angular + the daily discoveries
+*   🧠  Currently improving my skills among the daily discoveries
 
 ### Skills 
 <p align="left">
